@@ -71,9 +71,9 @@ label {
   left: 10px;
 }
 
-
-
-
+#logo > img {
+  margin-left: -150px;
+}
 
 
 
